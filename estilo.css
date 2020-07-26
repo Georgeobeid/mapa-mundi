@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div#foto-map img#mapa {
+    width: 1530px;
+    height: 800px;
+    margin: -20px;
+}
+div#primeiro {
+    margin-top: -15px;
+}
+header#cabecalho h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+article{
+    margin-top: 20px;
+    background-color: #cecece;
+    margin-bottom: 800px;
+    padding: 10px;
+    box-shadow: 1px 1px 3px gray;
+}
